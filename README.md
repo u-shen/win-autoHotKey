@@ -1,24 +1,41 @@
-# Win AutoHotKey Scripts 🚀
+# AutoHotKey Productivity Scripts Collection 🚀
 
-A collection of powerful AutoHotKey scripts to supercharge your Windows productivity! Streamline your workflow with these handy shortcuts and automation magic.
+A curated set of AutoHotKey scripts to supercharge your Windows productivity! These scripts enhance window management, keyboard shortcuts, mouse controls, and more.
 
-## 🔥 Featured Scripts
+## 📂 Scripts Overview
 
-- **Window Management**: Resize/move windows with pixel-perfect precision
-- **Text Expansion**: Create smart abbreviations for frequent phrases
-- **App Launchers**: Instant-access hotkeys for your favorite programs
-- **Media Control**: Play/pause/skip tracks system-wide
-- **Clipboard+**: History manager and format cleaner
-- **Productivity Boosters**: Mouse shortcuts, emoji inserter, quick calculations
+| Script Name                                              | Description                                                  | Category             |
+| -------------------------------------------------------- | ------------------------------------------------------------ | -------------------- |
+| [`activateWindowBorder.ahk`](./activateWindowBorder.ahk) | Highlights or activates window borders for better visibility | Window Management    |
+| [`colorPicker.ahk`](./colorPicker.ahk)                   | Provides a system-wide color picker tool                     | Utilities            |
+| [`focusOnWindowHover.ahk`](./focusOnWindowHover.ahk)     | Automatically focuses windows on mouse hover                 | Window Management    |
+| [`hotKeys.ahk`](./hotKeys.ahk)                           | Custom global hotkey configurations                          | Keyboard Enhancement |
+| [`launchAsFullScreen.ahk`](./launchAsFullScreen.ahk)     | Launches applications in fullscreen mode automatically       | Window Management    |
+| [`maximizeAllWindows.ahk`](./maximizeAllWindows.ahk)     | Maximizes all open windows with a shortcut                   | Window Management    |
+| [`middleKeys.ahk`](./middleKeys.ahk)                     | Middle mouse button customization                            | Mouse Enhancement    |
+| [`mouseKeys.ahk`](./mouseKeys.ahk)                       | Additional mouse functionality via keyboard                  | Mouse Enhancement    |
+| [`mouseWheel.ahk`](./mouseWheel.ahk)                     | Copy & Paste by mouse wheel                                  | Mouse Enhancement    |
+| [`moveWindowGrid.ahk`](./moveWindowGrid.ahk)             | Snap windows to grid positions with shortcuts                | Window Management    |
+| [`powerMenu.ahk`](./powerMenu.ahk)                       | Quick access to power options (sleep, shutdown, etc.)        | System Utilities     |
+| [`stringKeys.ahk`](./stringKeys.ahk)                     | Text expansion and string macros                             | Keyboard Enhancement |
+| [`switchVDByMouseWheel.ahk`](./switchVDByMouseWheel.ahk) | Switch virtual desktops using mouse wheel                    | Virtual Desktop      |
+| [`virtDeskSwitcher.ahk`](./virtDeskSwitcher.ahk)         | Enhanced virtual desktop switching By Keyboard               | Virtual Desktop      |
 
-## 🚀 Quick Start
+## ✨ Features
 
-1. Install [AutoHotkey v1.1+](https://www.autohotkey.com/)
-2. Clone repo:
-   ```bash
-   git clone https://github.com/u-shen/win-autoHotKey.git
-   ```
-3. Run scripts:
+- 🖱️ Enhanced mouse controls
+- ⌨️ Custom keyboard shortcuts
+- 🪟 Advanced window management
+- 🎨 System utilities
+- 🏗️ Virtual desktop enhancements
 
-- Double-click .ahk files to activate
-- Right-click → "Compile" to create EXEs
+## � Installation
+
+1. Install [AutoHotKey v2.\*](https://www.autohotkey.com/)
+2. Clone this repository or download individual scripts
+3. Double-click any script to run it
+4. (Optional) Add to startup for persistent functionality
+
+---
+
+## Enjoy 🤗
