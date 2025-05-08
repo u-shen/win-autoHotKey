@@ -34,7 +34,8 @@ A curated set of AutoHotKey scripts to supercharge your Windows productivity! Th
 1. Install [AutoHotKey v2.\*](https://www.autohotkey.com/)
 2. Clone this repository or download individual scripts
 3. Double-click any script to run it
-4. (Optional) Add to startup for persistent functionality
+4. (Optional) Run All Script by Double-click to **all.ahk** script
+5. (Optional) Add to startup for persistent functionality
 
 ---
 
